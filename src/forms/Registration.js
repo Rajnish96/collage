@@ -15,7 +15,7 @@ export default function Registration(props) {
                     <input type="email" name='email' autoComplete='off' required className="form-control" placeholder="Please enter your Email" /> 
                 </div><br/>
                 <div>
-                <button type="submit" className='btn btn-primary'>Save</button>
+                <button type="submit" className='btn btn-primary'>submit</button>
                 </div>
                 
             </form>
