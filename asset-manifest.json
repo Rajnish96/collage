@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/collage/static/css/main.13f7ff68.css",
+    "main.js": "/collage/static/js/main.e4b90560.js",
+    "index.html": "/collage/index.html",
+    "main.13f7ff68.css.map": "/collage/static/css/main.13f7ff68.css.map",
+    "main.e4b90560.js.map": "/collage/static/js/main.e4b90560.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13f7ff68.css",
+    "static/js/main.e4b90560.js"
+  ]
+}
